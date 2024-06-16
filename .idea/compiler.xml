@@ -9,8 +9,8 @@
         <module name="seleniumArchPractice" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="seleniumArchPractice" target="1.5" />
+    <bytecodeTargetLevel target="11">
+      <module name="seleniumArchPractice" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
